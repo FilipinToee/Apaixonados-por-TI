@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+body{
+    background-color: black;
+}
+
+button{
+    background-color: black;
+    position: sticky;
+    top: 0px;
+}
+
+h1{
+    color: darkgreen;
+}
+
+h2{
+    color: darkgreen;
+}
+
+p{
+    color: darkgreen;
+}
+
+picture{
+    border-left-width: 50px;
+}
